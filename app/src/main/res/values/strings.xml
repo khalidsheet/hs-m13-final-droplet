@@ -1,0 +1,19 @@
+<resources>
+    <!--  General  -->
+    <string name="app_name">Droplet</string>
+
+    <!--  Auth  -->
+    <string name="auth_subtitle">Effortless Thought Sharing</string>
+    <string name="auth_subheading">Start sharing your thoughts</string>
+    <string name="auth_signin_text">Sign in with Google</string>
+    <string name="auth_get_user_info">Loading User Information, Please wait.</string>
+    <string name="auth_google_client_id">795083526114-cj9dfkhm8mr4eldvdge23f0p4n001par.apps.googleusercontent.com</string>
+    <string name="loading">Loading…</string>
+    <string name="sign_out">Sign out</string>
+    <string name="awesome_let_s_go_see_it">Awesome, let\'s go see it!</string>
+    <string name="write_your_thought">Write your thought</string>
+    <string name="thoughts_are_shown_to_everyone_at_the_moment">Thoughts are shown to everyone at the moment.</string>
+    <string name="share_now">SHARE NOW</string>
+    <string name="no_thoughts_yet">No thoughts yet...</string>
+    <string name="loading_data">Loading data...</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "795083526114",
+    "project_id": "droplet2-316e8",
+    "storage_bucket": "droplet2-316e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795083526114:android:a9093706af70fbe316b3bb",
+        "android_client_info": {
+          "package_name": "com.khalidmsheet.droplet2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795083526114-u1gl2e5a6h1djur33j7gtm7ccruits2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVdk0Hj0ojjAzNY1iLSgT44YaBFFappbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795083526114-u1gl2e5a6h1djur33j7gtm7ccruits2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
